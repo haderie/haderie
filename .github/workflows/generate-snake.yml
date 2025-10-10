@@ -30,4 +30,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          PERSONAL_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_PAT: ${{ secrets.PAT_TOKEN }}
