@@ -55,9 +55,9 @@ I'm Hareg!
 
 ### IDEs / Editors
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=30)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&logoWidth=30)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&logoWidth=30)
-![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white&logoWidth=30)
+![PyCharm](https://img.shields.io/badge/-PyCharm-44A51C?style=for-the-badge&logo=pycharm&logoColor=white&logoWidth=30)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-E53935?style=for-the-badge&logo=intellij-idea&logoColor=white&logoWidth=30)
+![DataGrip](https://img.shields.io/badge/-DataGrip-9B59B6?style=for-the-badge&logo=datagrip&logoColor=white&logoWidth=30)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&logoWidth=30)
 
 </br>
