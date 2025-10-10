@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake
+      - name: Generate GitHub contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: haderie
@@ -29,5 +29,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false          # overwrite previous output
+          allow_empty_commit: true     # ensures commit even if nothing changed
+          verbose: true                # detailed logs for debugging
         env:
           GH_PAT: ${{ secrets.PAT_TOKEN }}
