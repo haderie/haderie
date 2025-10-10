@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
 I'm Hareg!
 
 - 🔭 Working on: cool data projects
 - 🌱 Learning: AWS & distributed systems
-
+Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=haderie&show_icons=true)
