@@ -20,6 +20,5 @@ I'm Hareg!
 
 - 🔭 Working on: cool data projects
 - 🌱 Learning: AWS & distributed systems
-- 💬 Ask me about: Python, automation, cloud
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=haderie&show_icons=true)
